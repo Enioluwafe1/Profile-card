@@ -126,10 +126,6 @@ Follow the existing pattern in the HTML:
 </li>
 ```
 
-## License
-
-This project is open source and available under the MIT License.
-
 ## Author
 
 [Your Name]
