@@ -13,7 +13,7 @@ A modern, accessible, and responsive profile card component built with semantic 
 
 ## Live Demo
 
-**Live URL:** []
+**Live URL:** [the-profile-card.netlify.app]
 
 ## Requirements Met
 
@@ -40,7 +40,7 @@ All required data-testid attributes are implemented:
 ### Option 1: Direct File Open
 1. Clone this repository:
 ```bash
-   git clone https://github.com/
+   git clone git@github.com:Enioluwafe1/Profile-card.git
 ```
 2. Navigate to the project folder:
 ```bash
@@ -128,7 +128,7 @@ Follow the existing pattern in the HTML:
 
 ## Author
 
-[Your Name]
+[Enioluwafe Odunayo]
 - GitHub: [@Enioluwafe1](https://github.com/Enioluwafe1)
 - LinkedIn: [Enioluwafe Odunayo](https://www.linkedin.com/in/enioluwafe-odunayo-050321338)
 
